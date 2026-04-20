@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi  👋
 
-<!--
-**Astrorus/Astrorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Desarrollador de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta construir proyectos donde se juntan el **software, la electrónica, el IoT y la robótica**.
+
+## Stack principal
+**Astro · React · FastAPI · PostgreSQL · TypeScript · Python**
+
+## Intereses
+- Desarrollo web y backend
+- IoT y automatización
+- Arduino y Raspberry Pi
+- Robótica y sistemas conectados
+
+## Ahora mismo
+Trabajando en proyectos de software e ingeniería con enfoque práctico, simple y útil.
+
